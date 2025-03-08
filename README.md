@@ -61,10 +61,3 @@ Note
 ----
 
 This is a basic implementation and may not include all the features and security measures required for a production-ready application.
-
--------------------------
-
-*   Use consistent indentation (4 spaces)
-*   Use meaningful variable names
-*   Keep functions short and focused
-*   Use comments to explain complex logic
